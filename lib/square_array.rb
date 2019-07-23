@@ -1,6 +1,6 @@
 def square_array(array)
   
-  while array |num| do
+  while array do
     num**=2
   end
   
