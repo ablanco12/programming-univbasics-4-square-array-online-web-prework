@@ -5,5 +5,3 @@ def square_array array
   end
   
 end
-
-animals = ["dogs", "cats", "bitches"]
