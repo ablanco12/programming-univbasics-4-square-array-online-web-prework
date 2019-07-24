@@ -1,10 +1,10 @@
 def square_array array
   
-  while array |element| do
+  while array |element|
     element**=2
   end
   
-  array.each item do
+  array.each do |item|
     item**=2
   end
   
