@@ -4,4 +4,8 @@ def square_array array
     element**=2
   end
   
+  array.each item do
+    
+  end
+  
 end
