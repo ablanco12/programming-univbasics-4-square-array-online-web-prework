@@ -5,7 +5,7 @@ def square_array array
   end
   
   array.each item do
-    
+    item**=2
   end
   
 end
